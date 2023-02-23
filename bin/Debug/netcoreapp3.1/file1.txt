@@ -1,0 +1,3 @@
+CAR,GY52OBW,Honda,Jazz
+VAN,WE12POP,Mercedes,Sprinter
+ELECTRIC_CAR,Tyrell,Tesla,X

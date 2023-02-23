@@ -1,0 +1,14 @@
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\bin\Debug\netcoreapp3.1\WestminsterRental.exe
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\bin\Debug\netcoreapp3.1\WestminsterRental.deps.json
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\bin\Debug\netcoreapp3.1\WestminsterRental.runtimeconfig.json
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\bin\Debug\netcoreapp3.1\WestminsterRental.runtimeconfig.dev.json
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\bin\Debug\netcoreapp3.1\WestminsterRental.dll
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\bin\Debug\netcoreapp3.1\WestminsterRental.pdb
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\obj\Debug\netcoreapp3.1\WestminsterRental.csproj.AssemblyReference.cache
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\obj\Debug\netcoreapp3.1\WestminsterRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\obj\Debug\netcoreapp3.1\WestminsterRental.AssemblyInfoInputs.cache
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\obj\Debug\netcoreapp3.1\WestminsterRental.AssemblyInfo.cs
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\obj\Debug\netcoreapp3.1\WestminsterRental.csproj.CoreCompileInputs.cache
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\obj\Debug\netcoreapp3.1\WestminsterRental.dll
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\obj\Debug\netcoreapp3.1\WestminsterRental.pdb
+C:\Users\Tyrell\Documents\7SENG011W_1865139_Tyrell_Yu\WestminRental\obj\Debug\netcoreapp3.1\WestminsterRental.genruntimeconfig.cache
